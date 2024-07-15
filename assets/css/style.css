@@ -46,7 +46,10 @@ h6 {
   padding: 0;
   color: #0e1b4d;
 }
-
+.o_head{
+  font-size: 18px;
+  font-weight: bold;
+}
 .main-page {
   margin-top: 70px;
 }
